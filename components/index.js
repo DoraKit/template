@@ -1,6 +1,6 @@
 module.exports = {
   type: 'list',
-  async fetch({ args }) {
+  async fetch({ args, page }) {
     return [{
       style: 'simple',
       title: 'Hello World',
