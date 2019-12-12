@@ -1,0 +1,26 @@
+{
+  "name": "${name}",
+  "displayName": "${displayName}",
+  "version": "${version}",
+  "uuid": "${uuid}",
+  "description": "",
+  "icon": "${iconPath}",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "${authorName}"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=${doraVersion}"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}
