@@ -4,7 +4,7 @@ module.exports = {
     return [{
       style: 'simple',
       title: 'Hello World',
-      onClick: () => {
+      onClick: (item) => {
         $ui.toast(`Clicked ${item.title}`)
       }
     }]
