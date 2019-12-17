@@ -7,8 +7,8 @@ module.exports = {
         title: 'Hello World',
         onClick: item => {
           $ui.toast(`Clicked ${item.title}`)
-        },
-      },
+        }
+      }
     ]
-  },
+  }
 }
