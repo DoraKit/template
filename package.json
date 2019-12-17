@@ -3,7 +3,7 @@
   "displayName": "${displayName}",
   "version": "${version}",
   "uuid": "${uuid}",
-  "description": "",
+  "description": "${displayName}",
   "icon": "${iconPath}",
   "prefs": "assets/prefs.json",
   "main": "main.js",
