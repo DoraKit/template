@@ -11,13 +11,14 @@
   "author": {
     "name": "${authorName}"
   },
+  "engineStrick": true,
   "repository": {
     "type": "git",
     "url": ""
   },
   "homepage": "",
   "engines": {
-    "dora": ">=${doraVersion}"
+    "Dora.js": ">=${doraVersion}"
   },
   "keywords": [
     "Dora.js"
