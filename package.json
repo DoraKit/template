@@ -3,7 +3,7 @@
   "displayName": "${displayName}",
   "version": "${version}",
   "uuid": "${uuid}",
-  "description": "${displayName}",
+  "description": "${description}",
   "icon": "${iconPath}",
   "prefs": "assets/prefs.json",
   "main": "main.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "",
   "engines": {
-    "Dora.js": ">=${doraVersion}"
+    "dora": ">=${$holder}"
   },
   "keywords": [
     "Dora.js"
