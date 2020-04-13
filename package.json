@@ -16,9 +16,13 @@
     "type": "git",
     "url": ""
   },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
   "homepage": "",
   "engines": {
-    "dora": ">=${$holder}"
+    "dora": ">=${doraVersion}"
   },
   "keywords": [
     "Dora.js"
